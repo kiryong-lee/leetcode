@@ -20,7 +20,7 @@ class SolutionTest {
     @Test
     void sampleCase2() {
         ListNode actual = solution.addTwoNumbers(
-            listOf(9,9,9,9,9,9,9), listOf(9,9,9));
+            listOf(9,9,9,9,9,9,9), listOf(9,9,9,9));
 
         assertArrayEquals(new int[]{8,9,9,9,0,0,0,1}, toArray(actual));
     }
