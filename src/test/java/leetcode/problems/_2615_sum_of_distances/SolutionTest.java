@@ -2,8 +2,6 @@ package leetcode.problems._2615_sum_of_distances;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
-import java.util.Arrays;
-
 import org.junit.jupiter.api.Test;
 
 class SolutionTest {
