@@ -8,7 +8,7 @@ class Solution {
         Arrays.sort(cost);
         reverse(cost);
         int sum = 0;
-        for (int i = cost.length - 1; i >= 0; i--) {
+        for (int i = 0; i < cost.length; i++) {
             if (i % 3 == 2) {
                 continue;
             }
