@@ -5,6 +5,7 @@
 | 1 | Two Sum | [Solution](src/main/java/leetcode/problems/_0001_two_sum/Solution.java) | [Test](src/test/java/leetcode/problems/_0001_two_sum/SolutionTest.java) |
 | 2 | Add Two Numbers | [Solution](src/main/java/leetcode/problems/_0002_add_two_numbers/Solution.java) | [Test](src/test/java/leetcode/problems/_0002_add_two_numbers/SolutionTest.java) |
 | 9 | Palindrome Number | [Solution](src/main/java/leetcode/problems/_0009_palindrome_number/Solution.java) | [Test](src/test/java/leetcode/problems/_0009_palindrome_number/SolutionTest.java) |
+| 13 | Roman to Integer | [Solution](src/main/java/leetcode/problems/_0013_roman_to_integer/Solution.java) | [Test](src/test/java/leetcode/problems/_0013_roman_to_integer/SolutionTest.java) |
 | 2144 | Minimum Cost of Buying Candies With Discount | [Solution](src/main/java/leetcode/problems/_2144_minimum_cost_of_buying_candies_with_discount/Solution.java) | [Test](src/test/java/leetcode/problems/_2144_minimum_cost_of_buying_candies_with_discount/SolutionTest.java) |
 | 2161 | Partition Array According to Given Pivot | [Solution](src/main/java/leetcode/problems/_2161_partition_array_according_to_given_pivot/Solution.java) | [Test](src/test/java/leetcode/problems/_2161_partition_array_according_to_given_pivot/SolutionTest.java) |
 | 2196 | Create Binary Tree From Descriptions | [Solution](src/main/java/leetcode/problems/_2196_create_binary_tree_from_descriptions/Solution.java) | [Test](src/test/java/leetcode/problems/_2196_create_binary_tree_from_descriptions/SolutionTest.java) |
