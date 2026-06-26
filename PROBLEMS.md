@@ -6,6 +6,7 @@
 | 2 | Add Two Numbers | [Solution](src/main/java/leetcode/problems/_0002_add_two_numbers/Solution.java) | [Test](src/test/java/leetcode/problems/_0002_add_two_numbers/SolutionTest.java) |
 | 9 | Palindrome Number | [Solution](src/main/java/leetcode/problems/_0009_palindrome_number/Solution.java) | [Test](src/test/java/leetcode/problems/_0009_palindrome_number/SolutionTest.java) |
 | 13 | Roman to Integer | [Solution](src/main/java/leetcode/problems/_0013_roman_to_integer/Solution.java) | [Test](src/test/java/leetcode/problems/_0013_roman_to_integer/SolutionTest.java) |
+| 14 | Longest Common Prefix | [Solution](src/main/java/leetcode/problems/_0014_longest_common_prefix/Solution.java) | [Test](src/test/java/leetcode/problems/_0014_longest_common_prefix/SolutionTest.java) |
 | 1189 | Maximum Number of Balloons | [Solution](src/main/java/leetcode/problems/_1189_maximum_number_of_balloons/Solution.java) | [Test](src/test/java/leetcode/problems/_1189_maximum_number_of_balloons/SolutionTest.java) |
 | 1344 | Angle Between Hands of a Clock | [Solution](src/main/java/leetcode/problems/_1344_angle_between_hands_of_a_clock/Solution.java) | [Test](src/test/java/leetcode/problems/_1344_angle_between_hands_of_a_clock/SolutionTest.java) |
 | 1732 | Find the Highest Altitude | [Solution](src/main/java/leetcode/problems/_1732_find_the_highest_altitude/Solution.java) | [Test](src/test/java/leetcode/problems/_1732_find_the_highest_altitude/SolutionTest.java) |
