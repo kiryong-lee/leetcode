@@ -16,6 +16,7 @@
 | 58 | Length of Last Word | [Solution](src/main/java/leetcode/problems/_0058_length_of_last_word/Solution.java) | [Test](src/test/java/leetcode/problems/_0058_length_of_last_word/SolutionTest.java) |
 | 66 | Plus One | [Solution](src/main/java/leetcode/problems/_0066_plus_one/Solution.java) | [Test](src/test/java/leetcode/problems/_0066_plus_one/SolutionTest.java) |
 | 67 | Add Binary | [Solution](src/main/java/leetcode/problems/_0067_add_binary/Solution.java) | [Test](src/test/java/leetcode/problems/_0067_add_binary/SolutionTest.java) |
+| 69 | Sqrt(x) | [Solution](src/main/java/leetcode/problems/_0069_sqrtx/Solution.java) | [Test](src/test/java/leetcode/problems/_0069_sqrtx/SolutionTest.java) |
 | 1189 | Maximum Number of Balloons | [Solution](src/main/java/leetcode/problems/_1189_maximum_number_of_balloons/Solution.java) | [Test](src/test/java/leetcode/problems/_1189_maximum_number_of_balloons/SolutionTest.java) |
 | 1344 | Angle Between Hands of a Clock | [Solution](src/main/java/leetcode/problems/_1344_angle_between_hands_of_a_clock/Solution.java) | [Test](src/test/java/leetcode/problems/_1344_angle_between_hands_of_a_clock/SolutionTest.java) |
 | 1358 | Number of Substrings Containing All Three Characters | [Solution](src/main/java/leetcode/problems/_1358_number_of_substrings_containing_all_three_characters/Solution.java) | [Test](src/test/java/leetcode/problems/_1358_number_of_substrings_containing_all_three_characters/SolutionTest.java) |
