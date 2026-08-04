@@ -18,6 +18,7 @@
 | 67 | Add Binary | [Solution](src/main/java/leetcode/problems/_0067_add_binary/Solution.java) | [Test](src/test/java/leetcode/problems/_0067_add_binary/SolutionTest.java) |
 | 69 | Sqrt(x) | [Solution](src/main/java/leetcode/problems/_0069_sqrtx/Solution.java) | [Test](src/test/java/leetcode/problems/_0069_sqrtx/SolutionTest.java) |
 | 70 | Climbing Stairs | [Solution](src/main/java/leetcode/problems/_0070_climbing_stairs/Solution.java) | [Test](src/test/java/leetcode/problems/_0070_climbing_stairs/SolutionTest.java) |
+| 84 | Largest Rectangle in Histogram | [Solution](src/main/java/leetcode/problems/_0084_largest_rectangle_in_histogram/Solution.java) | [Test](src/test/java/leetcode/problems/_0084_largest_rectangle_in_histogram/SolutionTest.java) |
 | 150 | Evaluate Reverse Polish Notation | [Solution](src/main/java/leetcode/problems/_0150_evaluate_reverse_polish_notation/Solution.java) | [Test](src/test/java/leetcode/problems/_0150_evaluate_reverse_polish_notation/SolutionTest.java) |
 | 383 | Ransom Note | [Solution](src/main/java/leetcode/problems/_0383_ransom_note/Solution.java) | [Test](src/test/java/leetcode/problems/_0383_ransom_note/SolutionTest.java) |
 | 412 | Fizz Buzz | [Solution](src/main/java/leetcode/problems/_0412_fizz_buzz/Solution.java) | [Test](src/test/java/leetcode/problems/_0412_fizz_buzz/SolutionTest.java) |
@@ -56,6 +57,7 @@
 | 3633 | Earliest Finish Time for Land and Water Rides I | [Solution](src/main/java/leetcode/problems/_3633_earliest_finish_time_for_land_and_water_rides_i/Solution.java) | [Test](src/test/java/leetcode/problems/_3633_earliest_finish_time_for_land_and_water_rides_i/SolutionTest.java) |
 | 3635 | Earliest Finish Time for Land and Water Rides II | [Solution](src/main/java/leetcode/problems/_3635_earliest_finish_time_for_land_and_water_rides_ii/Solution.java) | [Test](src/test/java/leetcode/problems/_3635_earliest_finish_time_for_land_and_water_rides_ii/SolutionTest.java) |
 | 3689 | Maximum Total Subarray Value I | [Solution](src/main/java/leetcode/problems/_3689_maximum_total_subarray_value_i/Solution.java) | [Test](src/test/java/leetcode/problems/_3689_maximum_total_subarray_value_i/SolutionTest.java) |
+| 3731 | Find Missing Elements | [Solution](src/main/java/leetcode/problems/_3731_find_missing_elements/Solution.java) | [Test](src/test/java/leetcode/problems/_3731_find_missing_elements/SolutionTest.java) |
 | 3751 | Total Waviness of Numbers in Range I | [Solution](src/main/java/leetcode/problems/_3751_total_waviness_of_numbers_in_range_i/Solution.java) | [Test](src/test/java/leetcode/problems/_3751_total_waviness_of_numbers_in_range_i/SolutionTest.java) |
 | 3754 | Concatenate Non-Zero Digits and Multiply by Sum I | [Solution](src/main/java/leetcode/problems/_3754_concatenate_non_zero_digits_and_multiply_by_sum_i/Solution.java) | [Test](src/test/java/leetcode/problems/_3754_concatenate_non_zero_digits_and_multiply_by_sum_i/SolutionTest.java) |
 | 3838 | Weighted Word Mapping | [Solution](src/main/java/leetcode/problems/_3838_weighted_word_mapping/Solution.java) | [Test](src/test/java/leetcode/problems/_3838_weighted_word_mapping/SolutionTest.java) |
