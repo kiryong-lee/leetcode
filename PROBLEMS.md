@@ -29,6 +29,7 @@
 | 645 | Set Mismatch | [Solution](src/main/java/leetcode/problems/_0645_set_mismatch/Solution.java) | [Test](src/test/java/leetcode/problems/_0645_set_mismatch/SolutionTest.java) |
 | 739 | Daily Temperatures | [Solution](src/main/java/leetcode/problems/_0739_daily_temperatures/Solution.java) | [Test](src/test/java/leetcode/problems/_0739_daily_temperatures/SolutionTest.java) |
 | 876 | Middle of the Linked List | [Solution](src/main/java/leetcode/problems/_0876_middle_of_the_linked_list/Solution.java) | [Test](src/test/java/leetcode/problems/_0876_middle_of_the_linked_list/SolutionTest.java) |
+| 1046 | Last Stone Weight | [Solution](src/main/java/leetcode/problems/_1046_last_stone_weight/Solution.java) | [Test](src/test/java/leetcode/problems/_1046_last_stone_weight/SolutionTest.java) |
 | 1189 | Maximum Number of Balloons | [Solution](src/main/java/leetcode/problems/_1189_maximum_number_of_balloons/Solution.java) | [Test](src/test/java/leetcode/problems/_1189_maximum_number_of_balloons/SolutionTest.java) |
 | 1342 | Number of Steps to Reduce a Number to Zero | [Solution](src/main/java/leetcode/problems/_1342_number_of_steps_to_reduce_a_number_to_zero/Solution.java) | [Test](src/test/java/leetcode/problems/_1342_number_of_steps_to_reduce_a_number_to_zero/SolutionTest.java) |
 | 1344 | Angle Between Hands of a Clock | [Solution](src/main/java/leetcode/problems/_1344_angle_between_hands_of_a_clock/Solution.java) | [Test](src/test/java/leetcode/problems/_1344_angle_between_hands_of_a_clock/SolutionTest.java) |
