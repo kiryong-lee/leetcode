@@ -1,0 +1,23 @@
+package leetcode.problems._3903_smallest_stable_index_i;
+
+class Solution {
+
+    public int firstStableIndex(int[] nums, int k) {
+        int n = nums.length;
+        int[] minArray = new int[n];
+        minArray[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--) {
+            minArray[i] = Math.min(nums[i], minArray[i + 1]);
+        }
+
+        int maxValue = nums[0];
+        for (int i = 0; i < n; i++) {
+            maxValue = Math.max(nums[i], maxValue);
+            if (maxValue - minArray[i] <= k) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+}
